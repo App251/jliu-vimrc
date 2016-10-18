@@ -7,18 +7,18 @@ It includes 3 parts:
     3. Plugins settings
 
 Plugins List:
-    YouCompleteMe
-    nerdcommenter
-    nerdtree
-    ctrlp.vim
-    tagbar
-    syntastic
-    bufexplorer
-    vim-airline
-    vim-airline-themes
-    vim-surround
-    tabular
-    vim-easygrep
-    vim-fugitive
-    indentLine
+    YouCompleteMe,
+    nerdcommenter,
+    nerdtree,
+    ctrlp.vim,
+    tagbar,
+    syntastic,
+    bufexplorer,
+    vim-airline,
+    vim-airline-themes,
+    vim-surround,
+    tabular,
+    vim-easygrep,
+    vim-fugitive,
+    indentLine,
     auto-pairs
