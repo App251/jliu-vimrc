@@ -57,7 +57,6 @@ Plugin 'dkprice/vim-easygrep'
 Plugin 'tpope/vim-fugitive'
 Plugin 'Yggdroot/indentLine'
 Plugin 'jiangmiao/auto-pairs'
-Plugin 'ervandew/eclim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
