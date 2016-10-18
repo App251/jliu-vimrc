@@ -7,20 +7,18 @@ It includes 3 parts:
     3. Plugins settings
 
 Plugins List:
-    Plugin 'valloric/YouCompleteMe'                                                                                                                                                          
-    Plugin 'scrooloose/nerdcommenter'
-    Plugin 'scrooloose/nerdtree'
-    Plugin 'kien/ctrlp.vim'
-    Plugin 'majutsushi/tagbar'
-    Plugin 'scrooloose/syntastic'
-    Plugin 'jlanzarotta/bufexplorer'
-    Plugin 'vim-airline/vim-airline'
-    Plugin 'vim-airline/vim-airline-themes'
-    Plugin 'tpope/vim-surround'
-    Plugin 'godlygeek/tabular'
-    Plugin 'powerline/fonts'
-    Plugin 'dkprice/vim-easygrep'
-    Plugin 'tpope/vim-fugitive'
-    Plugin 'Yggdroot/indentLine'
-    Plugin 'jiangmiao/auto-pairs'
-    Plugin 'ervandew/eclim'
+    YouCompleteMe
+    nerdcommenter
+    nerdtree
+    ctrlp.vim
+    tagbar
+    syntastic
+    bufexplorer
+    vim-airline
+    vim-airline-themes
+    vim-surround
+    tabular
+    vim-easygrep
+    vim-fugitive
+    indentLine
+    auto-pairs
