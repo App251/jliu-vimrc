@@ -55,7 +55,6 @@ Plugin 'godlygeek/tabular'
 Plugin 'powerline/fonts'
 Plugin 'dkprice/vim-easygrep'
 Plugin 'tpope/vim-fugitive'
-Plugin 'Yggdroot/indentLine'
 Plugin 'jiangmiao/auto-pairs'
 
 " All of your Plugins must be added before the following line
