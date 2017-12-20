@@ -4,7 +4,6 @@
 set bs=indent,start,eol
 set ts=4
 set sw=4
-set nu
 set expandtab
 set hlsearch
 set noai
@@ -89,7 +88,7 @@ autocmd StdinReadPre * let s:std_in=1
 autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 
 " Settings for Tagbar
-nmap <F3> :TagbarToggle<CR>
+nmap <leader>tt :TagbarToggle<CR>
 let g:tagbar_width=35
 let g:tagbar_autofocus=1
 
@@ -97,9 +96,13 @@ let g:tagbar_autofocus=1
 set laststatus=2
 let g:airline#extensions#tabline#enabled = 1
 set guifont=Liberation\ Mono\ for\ Powerline\ 10 
-let g:airline_powerline_fonts = 1
+let g:airline_powerline_fonts = 0
 set background=dark
-let g:airline_theme='molokai'
+let g:airline_theme='luna'
+let g:airline#extensions#tabline#left_sep = ''
+let g:airline#extensions#tabline#left_alt_sep = ''
+let g:airline_left_sep=''
+let g:airline_right_sep=''
 syntax on
 syntax enable
 
